@@ -1,5 +1,5 @@
 ---
-title: A propos de moi
+title: À propos
 layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
