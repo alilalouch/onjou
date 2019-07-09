@@ -1,46 +1,23 @@
 ---
-title: About
+title: A propos de moi
 layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+Je m’appelle Ali et je suis passionné par l’informatique, Internet, l’univers Marvel et le développement de nouveaux produits.
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+C’est pour cela que j’ai tenté ma chance sur les stores en développant des applications mobiles, j’ai touché à l’Internet des objets connectés dans une startup, j’ai aussi travaillé dans une agence web et dans les équipes digitales de grandes banques.
 
-<h2>Skills</h2>
+Oui, j’ai commencé développeur, mais au fil des ans, au delà de mes compétences techniques, c’est ma capacité à résoudre des problèmes que j’ai le plus perfectionnée.
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+Si je devais retenir une chose de ces expériences, c’est la coopération des talents. Mon aisance relationnelle et mon ouverture d’esprit m’ont permis d’intégrer des équipes déjà établies, d’évoluer avec des développeurs de tous horizons, de coordonner les acteurs qui interviennent sur un projet, des product owners à l’hébergeur, en passant par les designers et les équipes de recette, et ce, dans un contexte international.
 
-<h2>Projects</h2>
+Faciliter le travail des gens, instiller un mindset agile dans l’organisation, montrer que la prise de risque finit par payer et instaurer un climat de confiance et de transparence font partie de mes objectifs.
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+Pourquoi l’agilité ? Parce que les méthodes agiles se rapprochent le plus de notre manière naturelle de fonctionner au quotidien. On essaye de s’améliorer continuellement, on répond rapidement au changement, on s’adapte à notre environnement, on teste, on met à fin à ce qui ne fonctionne pas…
+
+Mon rôle principal est de montrer ce qu’il est possible de faire pour être plus agiles. Je propose des outils, des méthodes et des formations pour tirer le meilleur des équipes. Je vous accompagnerai dans le changement et la transformation de votre entreprise pour vous permettre de mieux répondre aux enjeux de l’ère digitale.
+
+Ah et je parle super bien anglais !
+
+はじめまして
