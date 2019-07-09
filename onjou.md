@@ -1,5 +1,5 @@
 ---
-title: A propos de ce site
+title: Onjou
 layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
