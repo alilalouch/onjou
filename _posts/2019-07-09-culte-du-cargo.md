@@ -19,28 +19,40 @@ description: Le Culte du Cargo
 ---
 
 – Hey, c’est bon, j’ai mis des post-its sur un mur, on fait des sprints de 2 semaines, l’équipe est finalement agile. J’ai On a réussi !
+
 – Non
+
 – Mais si, regarde on est tous debout, on fait un daaaaaily
+
 – Toujours pas
 
 ---
 
 – On a mis en place une plateforme Docker, on est DevOps hein ?
+
 – Les Devs et les Ops bossent ensemble ?
+
 – lol
+
 – Ben non
 
 ---
 
 – On va mettre de la Blockchain, on en a besoin
+
 – On n’en a pas besoin
+
 – Ben si, regarde le Bitcoin approche les 10 000$
+
 – 😓
 
 ---
 
 – Big Data, Data Science, Deep Fake, Machine Learning, AI, Deep Learning, Machine Learning, Deep Learning, Big Data, Deep Learning, Data Mining, Analytics, Data Science, DataViz, DataViz, DataViz, AI — heu c’est bon on est Data ?
+
 – Pas encore
-– Ok je continue, ça va finir par marcher ! AI, Machine Learning, Big Data, Data Science, DataViz, Deep Fake, Deep Learning, Machine Learning, AI, Deep Learning, DataViz, Big Data, Deep Learning, Data Mining, Analytics, Data Science, DataViz, AI…
+
+– Ok ben je continue, ça va finir par marcher ! AI, Machine Learning, Big Data, Data Science, DataViz, Deep Fake, Deep Learning, Machine Learning, AI, Deep Learning, DataViz, Big Data, Deep Learning, Data Mining, Analytics, Data Science, DataViz, AI…
+
 
 ユーモア
