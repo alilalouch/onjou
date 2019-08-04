@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 Je m’appelle Ali et je suis passionné par l’informatique, Internet, l’univers Marvel et le développement de nouveaux produits.
-
+{% comment %}
 C’est pour cela que j’ai tenté ma chance sur les stores en développant des applications mobiles, j’ai touché à l’Internet des objets connectés dans une startup, j’ai aussi travaillé dans une agence web et dans les équipes digitales de grandes banques.
 
 Oui, j’ai commencé développeur, mais au fil des ans, au delà de mes compétences techniques, c’est ma capacité à résoudre des problèmes que j’ai le plus perfectionnée.
@@ -19,5 +19,6 @@ Pourquoi l’agilité ? Parce que les méthodes agiles se rapprochent le plus de
 Mon rôle principal est de montrer ce qu’il est possible de faire pour être plus agiles. Je propose des outils, des méthodes et des formations pour tirer le meilleur des équipes. Je vous accompagnerai dans le changement et la transformation de votre entreprise pour vous permettre de mieux répondre aux enjeux de l’ère digitale.
 
 Ah et je parle super bien anglais !
+{% endcomment %}
 
 はじめまして
