@@ -50,9 +50,13 @@ Pour mettre en place une conversation (qui plus est avec des inconnus), il faut 
 
 # Essayer de bullshiter
 
+---
+
 > Recruteur : Lors de votre dernière expérience, vous supervisiez les microtransactions financières d’une multinationale américaine, pouvez-vous détailler ?
 
 > Candidat : J’étais caissier au McDo.
+
+---
 
 Un « je ne sais pas » sera toujours mieux qu’une réponse erronée donnée de manière consciente.
 Toujours.
