@@ -2,7 +2,7 @@
 title: "Le Culte du Cargo"
 layout: post
 date: 2019-07-09 21:19
-image: /assets/images/markdown.jpg
+image: /assets/images/cargo.jpg
 headerImage: true
 tag:
 - cargo
