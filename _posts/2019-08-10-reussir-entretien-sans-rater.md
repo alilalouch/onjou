@@ -26,7 +26,9 @@ Voici mon histoire… enfin 2 erreurs que je vois bien trop souvent ainsi qu’u
 
 > Recruteur: Concrètement, quel est votre plus gros défaut ?
 
-> Candidat: L’honnêteté. Recruteur: Mmmmh, je ne pense pas que ça soit vraiment un défaut.
+> Candidat: L’honnêteté.
+
+> Recruteur: Mmmmh, je ne pense pas que ça soit vraiment un défaut.
 
 > Candidat: Mmmmh, je m’en fous de ce que vous pensez.
 
