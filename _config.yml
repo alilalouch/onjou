@@ -35,7 +35,7 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: alionjou
+# twitter: alionjou
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -56,10 +56,10 @@ email: ali@onjou.com
 authors:
     alionjou:
         name: Ali Lalouch
-        bio: Agiliste
+        bio: Homme-orchestre
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: alionjou
+        # twitter: alionjou
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
