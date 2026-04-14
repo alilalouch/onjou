@@ -1,6 +1,6 @@
 # main text of home
 name: Onjou - 温情
-bio: Ali - Homme-orchestre
+bio: Ali - Homme-Orchestre
 
 # twitter summary info
 description: Faire les choses
@@ -42,7 +42,7 @@ disqus:
 linkedin: alilalouch
 # youtube: myyoutube
 # spotify: myspotify
-github: alilalouch
+# github: alilalouch
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -51,7 +51,7 @@ github: alilalouch
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: ali@onjou.com
+email: ali.lalouch@gmail.com
 
 authors:
     alionjou:
